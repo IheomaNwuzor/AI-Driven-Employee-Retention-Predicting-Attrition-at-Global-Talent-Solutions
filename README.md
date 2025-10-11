@@ -1,0 +1,2 @@
+# AI-Driven-Employee-Retention-Predicting-Attrition-at-Global-Talent-Solutions
+Global Talent Solutions (GTS) is a multinational company specializing in providing comprehensive HR solutions, including talent acquisition, employee training, and workforce analytics.  With over 10,000 employees spread across 25 countries, GTS serves a diverse clientele ranging from Fortune 500 companies to small and medium enterprises. 
