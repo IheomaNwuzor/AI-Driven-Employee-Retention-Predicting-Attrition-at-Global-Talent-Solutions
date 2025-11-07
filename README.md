@@ -42,7 +42,7 @@ To develop a data-driven predictive framework using machine learning techniques 
 
 # Conclusion
 
-The AI-driven attrition prediction system developed for Global Talent Solutions successfully transformed a reactive HR process into a proactive retention strategy. By integrating advanced machine learning techniques with explainable AI, the project provided:
+The AI-driven attrition prediction system developed for Global Talent Solutions successfully transformed a reactive HR process into a proactive retention strategy. By integrating advanced supervised machine learning techniques with explainable AI, the project provided:
 
 Early warning signals for at-risk employees, enabling timely interventions.
 
