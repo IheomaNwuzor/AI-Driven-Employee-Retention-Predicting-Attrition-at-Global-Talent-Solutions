@@ -36,7 +36,7 @@ To develop a data-driven predictive framework using machine learning techniques 
 ●	Business Problem Understanding
 ●	Data Preprocessing and Cleaning
 ●	Addressing Class Imbalance
-●	Model Development and Evaluation
+●	Model Development and Evaluation (Multicharacteristics)
 ●	Interpreting Model Results
 ●	AutoML Techniques
 
